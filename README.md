@@ -2,11 +2,11 @@
 
 <p align="center">
 
-  [![Build Status](https://travis-ci.org/Rebolon/SymfonySerializerSamples.svg?branch=master)](https://travis-ci.org/Rebolon/symfony-serializer-samples)
+  [![Build Status](https://travis-ci.org/Rebolon/SymfonySerializerSamples.svg?branch=master)](https://travis-ci.org/Rebolon/SymfonySerializerSamples.svg?branch=master)
   [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRebolon%2FSymfonySerializerSamples.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FRebolon%2FSymfonySerializerSamples?ref=badge_shield)
   [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Rebolon/SymfonySerializerSamples/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Rebolon/SymfonySerializerSamples/badges/quality-score.png?b=master)
   [![Code Coverage](https://scrutinizer-ci.com/g/Rebolon/SymfonySerializerSamples/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/Rebolon/SymfonySerializerSamples/?branch=master)
-  [![Code Intelligence Status](https://scrutinizer-ci.com/g/Rebolon/SymfonySerializerSamples/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
+  [![Code Intelligence Status](https://scrutinizer-ci.com/g/Rebolon/SymfonySerializerSamples/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence.svg?b=master)
   
 </p>
 
