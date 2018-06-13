@@ -72,5 +72,10 @@ I hope that it will help you !
 
 Related article is here: [https://medium.com/@rebolon/the-symfony-serializer-a-great-but-complex-component-fbc09baa65a0](https://medium.com/@rebolon/the-symfony-serializer-a-great-but-complex-component-fbc09baa65a0)
 
+## Resources
+
+ * https://speakerdeck.com/dunglas/mastering-the-symfony-serializer?slide=1
+ * https://github.com/symfony/symfony/commit/2aa54b8cbd43fdbe9c2116afd2c47d50f7fa3c34
+
 ## License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRebolon%2FSymfonySerializerSamples.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FRebolon%2FSymfonySerializerSamples?ref=badge_large)
